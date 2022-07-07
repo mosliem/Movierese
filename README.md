@@ -24,4 +24,4 @@ Movierese is a simple iOS app. it gets trending movies or popular ones and views
 https://www.themoviedb.org/
 
 ## Authors
-created by mohamed sliem 
+created by Mohamed Sliem 
