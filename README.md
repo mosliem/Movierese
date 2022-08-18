@@ -3,7 +3,7 @@
 
 ## Description
 
-Movierese is a simple iOS app. it gets trending movies or popular ones and views it to the user. it allow the user to show the movie's details like an overview, release date and etc...                                                                                                                          it allow the user to search for a movie and gets all the details of it. It uses The moviedb api free version to get teh information.
+Movierese is a simple iOS app. it gets trending movies or popular ones and views it to the user. it allow the user to show the movie's details like an overview, release date and etc...                                                                                                                          it allow the user to search for a movie and gets all the details of it. It uses The moviedb api free version to get the information.
 
 
 ## App Design
